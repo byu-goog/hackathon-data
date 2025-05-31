@@ -1,0 +1,47 @@
+location_id,address,city,state_province,country
+1,999 Water St,Madison,WI,USA
+2,789 Pine Rd,Vancouver,BC,CAN
+3,789 Pine Rd,Kamloops,BC,CAN
+4,123 Main St,Chicago,IL,USA
+5,456 Oak Ave,Dallas,TX,USA
+6,101 Elm St,New York,NY,USA
+7,222 Cherry Ln,Atlanta,GA,USA
+8,456 Commerce Blvd,Mount Forge,WA,USA
+9,456 Commerce Blvd,Mount Forge,TX,USA
+10,789 Manufacturing Rd,Steelton,WA,USA
+11,456 Commerce Blvd,Riverbend,CA,USA
+12,456 Commerce Blvd,Mount Forge,CA,CAN
+13,101 Innovation Dr,Riverbend,TX,CAN
+14,456 Commerce Blvd,Riverbend,PA,CAN
+15,456 Commerce Blvd,Steelton,WA,CAN
+16,101 Innovation Dr,Mount Forge,WA,USA
+17,789 Manufacturing Rd,Steelton,PA,CAN
+18,123 Industrial Way,Mount Forge,TX,USA
+19,456 Commerce Blvd,Steelton,TX,USA
+20,123 Industrial Way,Portside,PA,USA
+21,101 Innovation Dr,Steelton,PA,USA
+22,456 Commerce Blvd,Riverbend,PA,USA
+23,789 Manufacturing Rd,Mount Forge,TX,USA
+24,101 Innovation Dr,Mount Forge,CA,USA
+25,101 Innovation Dr,Riverbend,PA,CAN
+26,456 Commerce Blvd,Riverbend,CA,CAN
+27,123 Industrial Way,Steelton,WA,CAN
+28,123 Industrial Way,Riverbend,WA,CAN
+29,101 Innovation Dr,Portside,PA,USA
+30,789 Manufacturing Rd,Steelton,TX,USA
+31,101 Innovation Dr,Riverbend,WA,USA
+32,789 Manufacturing Rd,Mount Forge,PA,USA
+33,456 Commerce Blvd,Riverbend,TX,CAN
+34,123 Industrial Way,Mount Forge,CA,USA
+35,789 Manufacturing Rd,Steelton,TX,CAN
+36,123 Industrial Way,Steelton,WA,USA
+37,123 Industrial Way,Steelton,CA,CAN
+38,123 Industrial Way,Steelton,CA,USA
+39,123 Industrial Way,Riverbend,TX,CAN
+40,789 Manufacturing Rd,Portside,PA,USA
+41,123 Industrial Way,Mount Forge,CA,CAN
+42,123 Industrial Way,Portside,TX,USA
+43,101 Innovation Dr,Steelton,TX,USA
+44,789 Manufacturing Rd,Portside,TX,USA
+45,101 Innovation Dr,Riverbend,TX,USA
+46,123 Industrial Way,Portside,PA,CAN
