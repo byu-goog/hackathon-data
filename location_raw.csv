@@ -6,42 +6,102 @@ location_id,address,city,state_province,country
 5,456 Oak Ave,Dallas,TX,USA
 6,101 Elm St,New York,NY,USA
 7,222 Cherry Ln,Atlanta,GA,USA
-8,456 Commerce Blvd,Mount Forge,WA,USA
-9,456 Commerce Blvd,Mount Forge,TX,USA
-10,789 Manufacturing Rd,Steelton,WA,USA
-11,456 Commerce Blvd,Riverbend,CA,USA
-12,456 Commerce Blvd,Mount Forge,CA,CAN
-13,101 Innovation Dr,Riverbend,TX,CAN
-14,456 Commerce Blvd,Riverbend,PA,CAN
-15,456 Commerce Blvd,Steelton,WA,CAN
-16,101 Innovation Dr,Mount Forge,WA,USA
-17,789 Manufacturing Rd,Steelton,PA,CAN
-18,123 Industrial Way,Mount Forge,TX,USA
-19,456 Commerce Blvd,Steelton,TX,USA
-20,123 Industrial Way,Portside,PA,USA
-21,101 Innovation Dr,Steelton,PA,USA
-22,456 Commerce Blvd,Riverbend,PA,USA
-23,789 Manufacturing Rd,Mount Forge,TX,USA
-24,101 Innovation Dr,Mount Forge,CA,USA
-25,101 Innovation Dr,Riverbend,PA,CAN
-26,456 Commerce Blvd,Riverbend,CA,CAN
-27,123 Industrial Way,Steelton,WA,CAN
-28,123 Industrial Way,Riverbend,WA,CAN
-29,101 Innovation Dr,Portside,PA,USA
-30,789 Manufacturing Rd,Steelton,TX,USA
-31,101 Innovation Dr,Riverbend,WA,USA
-32,789 Manufacturing Rd,Mount Forge,PA,USA
-33,456 Commerce Blvd,Riverbend,TX,CAN
-34,123 Industrial Way,Mount Forge,CA,USA
-35,789 Manufacturing Rd,Steelton,TX,CAN
-36,123 Industrial Way,Steelton,WA,USA
-37,123 Industrial Way,Steelton,CA,CAN
-38,123 Industrial Way,Steelton,CA,USA
-39,123 Industrial Way,Riverbend,TX,CAN
-40,789 Manufacturing Rd,Portside,PA,USA
-41,123 Industrial Way,Mount Forge,CA,CAN
-42,123 Industrial Way,Portside,TX,USA
-43,101 Innovation Dr,Steelton,TX,USA
-44,789 Manufacturing Rd,Portside,TX,USA
-45,101 Innovation Dr,Riverbend,TX,USA
-46,123 Industrial Way,Portside,PA,CAN
+8,333 Terminal Ave,Houston,QC,USA
+9,225 Logistics Lane,Acheson,IL,USA
+10,800 Powerhouse Rd,Acheson,PA,USA
+11,905 Assembly Line,Houston,PA,USA
+12,789 Manufacturing Rd,Portside,QC,CAN
+13,550 Distribution Dr,Steelton,QC,USA
+14,550 Distribution Dr,Mississauga,GA,CAN
+15,456 Commerce Blvd,Joliet,TX,USA
+16,905 Assembly Line,Burlington,AB,USA
+17,789 Manufacturing Rd,Mississauga,AB,CAN
+18,550 Distribution Dr,Houston,PA,USA
+19,800 Powerhouse Rd,Joliet,TX,CAN
+20,800 Powerhouse Rd,Langley,ON,USA
+21,550 Distribution Dr,Mississauga,QC,CAN
+22,225 Logistics Lane,Portside,PA,USA
+23,456 Commerce Blvd,Mississauga,CA,USA
+24,905 Assembly Line,Atlanta,AB,CAN
+25,800 Powerhouse Rd,Mississauga,BC,CAN
+26,800 Powerhouse Rd,Joliet,ON,CAN
+27,550 Distribution Dr,Acheson,AB,USA
+28,225 Logistics Lane,Bakersfield,IL,CAN
+29,123 Industrial Way,Portside,ON,CAN
+30,905 Assembly Line,Bakersfield,WA,CAN
+31,1500 Quarry Rd,Atlanta,PA,USA
+32,101 Innovation Dr,Steelton,IL,USA
+33,333 Terminal Ave,Acheson,WA,USA
+34,225 Logistics Lane,Houston,ON,USA
+35,333 Terminal Ave,Joliet,IL,CAN
+36,1500 Quarry Rd,Joliet,QC,USA
+37,333 Terminal Ave,Mount Forge,GA,CAN
+38,1500 Quarry Rd,Joliet,GA,USA
+39,550 Distribution Dr,Acheson,CA,CAN
+40,123 Industrial Way,Joliet,QC,USA
+41,1500 Quarry Rd,Portside,TX,CAN
+42,905 Assembly Line,Bakersfield,CA,CAN
+43,225 Logistics Lane,Houston,TX,USA
+44,333 Terminal Ave,Acheson,AB,USA
+45,123 Industrial Way,Mississauga,GA,USA
+46,789 Manufacturing Rd,Burlington,BC,CAN
+47,905 Assembly Line,Houston,ON,CAN
+48,550 Distribution Dr,Atlanta,AB,CAN
+49,101 Innovation Dr,Riverbend,ON,CAN
+50,550 Distribution Dr,Langley,CA,USA
+51,456 Commerce Blvd,Acheson,AB,CAN
+52,456 Commerce Blvd,Grand Prairie,TX,CAN
+53,905 Assembly Line,Mount Forge,ON,CAN
+54,905 Assembly Line,Langley,GA,CAN
+55,123 Industrial Way,Burlington,TX,USA
+56,550 Distribution Dr,Bakersfield,ON,CAN
+57,123 Industrial Way,Mississauga,QC,USA
+58,550 Distribution Dr,Houston,BC,CAN
+59,333 Terminal Ave,Mississauga,WA,USA
+60,800 Powerhouse Rd,Langley,ON,CAN
+61,101 Innovation Dr,Acheson,IL,CAN
+62,456 Commerce Blvd,Portside,WA,USA
+63,225 Logistics Lane,Atlanta,IL,USA
+64,101 Innovation Dr,Burlington,WA,CAN
+65,225 Logistics Lane,Houston,CA,CAN
+66,333 Terminal Ave,Houston,TX,CAN
+67,456 Commerce Blvd,Mount Forge,GA,USA
+68,225 Logistics Lane,Grand Prairie,BC,CAN
+69,550 Distribution Dr,Mount Forge,TX,CAN
+70,789 Manufacturing Rd,Riverbend,WA,USA
+71,333 Terminal Ave,Acheson,IL,USA
+72,333 Terminal Ave,Bakersfield,GA,CAN
+73,123 Industrial Way,Grand Prairie,TX,USA
+74,225 Logistics Lane,Bakersfield,PA,USA
+75,905 Assembly Line,Mississauga,PA,USA
+76,101 Innovation Dr,Burlington,BC,CAN
+77,789 Manufacturing Rd,Portside,TX,CAN
+78,800 Powerhouse Rd,Acheson,AB,CAN
+79,800 Powerhouse Rd,Burlington,WA,CAN
+80,225 Logistics Lane,Atlanta,TX,CAN
+81,225 Logistics Lane,Burlington,QC,USA
+82,101 Innovation Dr,Mississauga,GA,CAN
+83,456 Commerce Blvd,Riverbend,ON,USA
+84,550 Distribution Dr,Acheson,ON,USA
+85,123 Industrial Way,Steelton,BC,USA
+86,123 Industrial Way,Acheson,CA,USA
+87,789 Manufacturing Rd,Burlington,BC,USA
+88,101 Innovation Dr,Houston,WA,CAN
+89,225 Logistics Lane,Mississauga,IL,USA
+90,1500 Quarry Rd,Mississauga,BC,USA
+91,225 Logistics Lane,Steelton,PA,USA
+92,905 Assembly Line,Atlanta,GA,CAN
+93,333 Terminal Ave,Steelton,ON,CAN
+94,550 Distribution Dr,Mississauga,QC,USA
+95,123 Industrial Way,Mississauga,IL,CAN
+96,333 Terminal Ave,Mount Forge,CA,USA
+97,550 Distribution Dr,Steelton,AB,USA
+98,789 Manufacturing Rd,Burlington,CA,CAN
+99,905 Assembly Line,Joliet,GA,USA
+100,123 Industrial Way,Mississauga,PA,USA
+101,905 Assembly Line,Portside,ON,CAN
+102,456 Commerce Blvd,Houston,CA,USA
+103,225 Logistics Lane,Riverbend,PA,USA
+104,1500 Quarry Rd,Atlanta,TX,USA
+105,456 Commerce Blvd,Bakersfield,BC,USA
+106,123 Industrial Way,Joliet,GA,USA
